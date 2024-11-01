@@ -1,4 +1,4 @@
-package github.com/GuoFlight/test/v2
+package test
 
 import "fmt"
 
